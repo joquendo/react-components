@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install
+npm install sb
 ```
 
 ## Usage
